@@ -1,0 +1,30 @@
+NOME DO CAMPO;TIPO;;;NOME DO CAMPO;TIPO
+identificacao_da_aeronave;VARCHAR;;;numero;NUMERIC
+regras_de_voo;VARCHAR;;;tipo_de_aeronave;VARCHAR
+tipo_de_voo;VARCHAR;;;cat_da_esteira_de_turbulencia;VARCHAR
+numero;NUMERIC;;;equipamento_e_capacidade;VARCHAR
+tipo_de_aeronave;VARCHAR;;;aerodromo_de_partida;VARCHAR
+cat_da_esteira_de_turbulencia;VARCHAR;;;hora;NUMERIC
+equipamento_e_capacidade;VARCHAR;;;velocidade_de_cruzeiro;VARCHAR
+aerodromo_de_partida;VARCHAR;;;nivel;VARCHAR
+hora;NUMERIC;;;rota;VARCHAR
+velocidade_de_cruzeiro;VARCHAR;;;aerodromo_destino;VARCHAR
+nivel;VARCHAR;;;eet_total;NUMERIC
+rota;VARCHAR;;;aerodromo_alt;VARCHAR
+aerodromo_destino;VARCHAR;;;outros_dados;VARCHAR
+eet_total;NUMERIC;;;autonomia;VARCHAR
+aerodromo_alt;VARCHAR;;;pessoas_a_bordo;NUMERIC
+segundo_aerodromo_alt;VARCHAR;;;cor_e_marcas_da_aeronave;VARCHAR
+outros_dados;VARCHAR;;;piloto_em_comando;VARCHAR
+autonomia;VARCHAR;;;;
+pessoas_a_bordo;NUMERIC;;;plano de voo simplificado;
+equipamento_radio_de_emergencia;VARCHAR;;;;
+equipamento_de_sobrevivencia;VARCHAR;;;;
+coletes;NUMERIC;;;;
+botes;NUMERIC;;;;
+abrigo;VARCHAR;;;;
+cor_e_marcas_da_aeronave;VARCHAR;;;;
+observacoes;VARCHAR;;;;
+piloto_em_comando;VARCHAR;;;;
+;;;;;
+plano de voo completo;;;;;
